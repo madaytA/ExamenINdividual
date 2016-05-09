@@ -1,0 +1,170 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,600italic);
+@import url(https://fonts.googleapis.com/css?family=Dosis);
+/*font-family: 'Dosis', sans-serif;*/
+body{
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+h1 span{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 800;
+}
+.cabecera{
+	background-color: #000;
+	color: #fff
+}
+.cabecera .menu{
+	text-align: right;
+}
+.cabecera a{
+	text-decoration: none;
+	color: #fff;
+}
+.cabecera a:hover{
+	color: #FF0000;
+}
+.cabecera li{
+	display: inline-block;
+	list-style: none;
+	padding: 30px 0 20px 20px;
+	font-size: 20px;
+}
+.primero, .segundo{
+	background-color: #E6E6E6;
+}
+.primero{
+	padding-bottom: 30px;
+	border-bottom: 2px solid #6E6E6E;
+	border-width: 70%;
+}
+.primero img{
+	margin-top: 20px;
+}
+.primero .texto{
+	margin-top: 40px;
+}
+h4{
+	font-size: 50px;
+	font-weight: bold;
+}
+.primero p{
+	font-size: 15px;
+}
+.primero button a{
+	text-decoration: none;
+	color: #fff;
+	margin: 8px 10px;
+}
+.primero button{
+	background-color: #848484;
+	border-radius: 20px;
+	text-decoration: none;
+}
+.segundo{
+	padding: 50px;
+	font-size: 17px;
+}
+.segundo ul{
+	padding: 0;
+}
+.segundo li{
+	display: inline-block;
+	list-style: none;
+	margin-right: 20px;
+}
+.segundo .mini a{
+	text-decoration: none;
+	color: #848484;
+}
+.segundo .mini a:hover{
+	color: #585858;
+	font-weight: bold;
+}
+.segundo .iconitos{
+	color: #848484;
+	margin-top: 10px;
+}
+.segundo h5{
+	font-size: 20px;
+	font-family: 'Dosis', sans-serif;
+}
+.segundo p{
+	margin: 0 40px 60px 0;
+}
+.solito{
+	padding: 30px 500px 60px 500px;
+	border-bottom: 2px solid #6E6E6E;
+	border-width: 70%;
+}
+.solito a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 8px;
+}
+.solito button{
+	border-radius: 25px;
+	background-color: #424242;
+	margin: 30px auto;
+}
+.frasered{
+	text-align: center;
+}
+.frasered img{
+	width: 70%;
+}
+.frasered .red a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 8px;
+}
+.frasered .red button{
+	background-color: #848484;
+	border-radius: 20px;
+	text-decoration: none;
+	margin-left: -30px;
+}
+.frasered .texti{
+	font-family: 'Dosis', sans-serif;
+	padding-top: 50px;
+	font-size: 25px;
+}
+.frasered p{
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+.frasered .texti a{
+	color: #DF0101;
+}
+.footer{
+	background-color: #000;
+	color: #fff;
+}
+.footer .arriba{
+	color: #848484;
+	padding-top: 50px;
+}
+.footer .arriba img{
+	height: 30px,
+	width: 30px;
+	border: 1px dashed #c1c1c1;
+	border-radius: 100%;
+}
+.footer .arriba .texmed{
+	font-size: 25px;
+	text-align: center;
+	font-family: 'Dosis', sans-serif;
+}
+.arriba .listilla li{
+	list-style: none;
+	margin: 3px auto;
+}
+.arriba .listilla a{
+	text-decoration: none;
+	color: #fff;
+}
+.arriba .listilla a:hover{
+	color: #DF0101;
+}
+.abajo .cuatro{
+	margin-left: 30px;
+}
